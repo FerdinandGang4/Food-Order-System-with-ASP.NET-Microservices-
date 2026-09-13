@@ -1,0 +1,6 @@
+@GatauWebSite_HostAddress = http://localhost:5044
+
+GET {{GatauWebSite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
